@@ -1,4 +1,4 @@
-# 👨‍💻 João Marcos
+# 👨‍💻 Marcos
 
 Sou João Marcos, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de Sergipe (IFS), em constante evolução e aprendizado na área de tecnologia com interesse em desenvolvimento back-end e tecnologias como Java, Spring Boot.
 
